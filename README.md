@@ -13,4 +13,4 @@ model: Logistic Regression, and SVM.
 ## Results:
 1. Binary classification: False positive: 0.08; False negative 0.12
 
-2. Multi-categorical: Logistic: 0.968 CV score; Keras: 0.975
+2. Multi-categorical: Logistic: 0.968 CV score; Keras: 0.983
